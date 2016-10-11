@@ -7,7 +7,7 @@ author: msonecode
 # How to break the locked lease of blob storage by ARM in Microsoft Azure (PowerShell)
 
 ## Introduction
-This PowerShell script sample shows how to break the locked lease of blob storage by ARM resources in Microsoft Azure.
+This PowerShell script sample shows [how to break the locked lease of blob storage by ARM resources in Microsoft Azure](https://gallery.technet.microsoft.com/How-to-break-the-locked-d01ba283).
 
 **For the script of ASM version:**  
 [How to break the locked lease of blob storage by ASM in Microsoft Azure (PowerShell)][1]
