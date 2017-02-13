@@ -19,7 +19,7 @@ This PowerShell script sample shows [how to break the locked lease of blob stora
 
 ## Scenarios
 
-Microsoft Azure provides functionality to acquire lock on blobs to avoid concurrent writes to blobs. Yet in some cases, if the backup fails due to the prolonged or sustained network connectivity failure, the backup process may not be able to gain access to the blob and the blob may remain orphaned. This means that the blob cannot be written to or to be deleted until the lease has been released. Under this condition, you might need to break the lease on a blob. And this script can help you with that.
+Microsoft Azure provides functionality of acquiring lock-on blobs to avoid concurrent writing to blobs. Yet in some cases, if the backup fails due to the prolonged or sustained network connectivity failure, the backup process may not be able to gain access to the blob and the blob may remain orphaned. This means that the blob cannot be written to or to be deleted until the lease has been released. Under this condition, you might need to break the lease on a blob， and this script can help you with that.
 
 
 ## Import and how to use
